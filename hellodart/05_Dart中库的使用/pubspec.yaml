@@ -1,0 +1,4 @@
+name: kevin
+description: a dart library
+dependencies: 
+  http: ^1.1.0
